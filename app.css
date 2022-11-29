@@ -1,0 +1,24 @@
+body {
+    background-color: #fffcf2;
+}
+
+img {
+    width: 30%;
+    
+    /* guy chill i don't know flexbox yet. */
+    margin: calc(5% / 6);
+
+    border: 0.1rem solid #ccc5b9 ;
+    padding: 0.1rem;
+
+    background-position: top;
+}
+
+nav {
+    font-family: 'Courier Prime', monospace;
+    border-bottom: 0.3rem solid rgb(229, 229, 229);
+    padding: 1rem;
+    margin-bottom: 0.7rem;
+    
+    font-size: larger;
+}
