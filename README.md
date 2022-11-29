@@ -1,1 +1,1 @@
-This is a repository that will hold all of my temporary css demo code. I use git to roll-back to a clean slate whenever I need to, instead of creating a completely new repo every time.
+This is a demo photographer website. None of the photos are my own, and they all come from unsplash. The other branch was my demo for testing things.
